@@ -1,5 +1,5 @@
 # KOBU 
-Bolu Ketan Hitam adalah kue khas Indonesia yang terbuat dari tepung ketan hitam. Kue ini dikenal karena teksturnya yang lembut dan padat, serta rasa khas dari ketan yang gurih dan legit. Sering dijumpai di toko kue rumahan maupun sebagai oleh-oleh, bolu ini juga menjadi pilihan favorit karena dinilai lebih sehat dibanding bolu berbasis tepung terigu.
+atau bolu Ketan Hitam adalah kue khas Indonesia yang terbuat dari tepung ketan hitam. Kue ini dikenal karena teksturnya yang lembut dan padat, serta rasa khas dari ketan yang gurih dan legit. Sering dijumpai di toko kue rumahan maupun sebagai oleh-oleh, bolu ini juga menjadi pilihan favorit karena dinilai lebih sehat dibanding bolu berbasis tepung terigu.
 # Informasi Umum
 Nama Produk: Bolu Ketan Hitam
 Kategori: Kue / Bolu Tradisional
@@ -16,7 +16,7 @@ Baking powder atau emulsifier
 Tambahan rasa: vanila, cokelat, keju (opsional).
 # Varian Populer
 Original	Versi klasik tanpa topping tambahan
-Ketan Hitam Keju	Topping keju parut di atas bolu
+Ketan Hitam Keju	Topping keju parut di atas atau pun dipanggang di dalam adonan bolu
 Ketan Hitam Kukus	Lebih moist, dimasak tanpa oven
 Ketan Hitam Cokelat	Kombinasi rasa cokelat dan ketan
 Low Sugar / Gluten-Free	Untuk diet khusus.
